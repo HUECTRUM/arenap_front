@@ -10,7 +10,7 @@
     "react-dom": "^16.8.6",
     "react-grid-gallery": "^0.5.5",
     "react-helmet": "^5.2.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
